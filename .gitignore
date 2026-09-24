@@ -1,0 +1,11 @@
+# Python virtual environment
+.venv/
+__pycache__/
+
+# Mac OS files
+.DS_Store
+
+# Data files (Never commit large data files to GitHub)
+*.parquet
+*.csv
+*.json

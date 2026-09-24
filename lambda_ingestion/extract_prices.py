@@ -6,7 +6,7 @@ import boto3
 
 
 api_url = "https://www.alphavantage.co/query"
-api_key = "AVKZJFMD8ET6AEB0"
+api_key = "ALPHA_VANTAGE_API_KEY"
 TICKERS = ["NVDA", "AAPL", "GOOGL", "MSFT", "AMZN"]
 s3_bucket = "us-stock-analysis-pipeline"
 
